@@ -1,0 +1,21 @@
+{
+  "name": "gerador-senhas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.4",
+    "nanoid": "^5.0.1",
+    "vite": "^4.4.10"
+  },
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.50.0"
+  }
+}
